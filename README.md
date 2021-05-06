@@ -1,6 +1,6 @@
 ![Banner](https://github.com/AnikaNarang9/AnikaNarang9/blob/bb660180dfeffb6b7ce7c87bd8be5c16aae35931/Image/anika_banner.jpeg)
 
-I'm a college student who lives in the India. I'm learning Web Development and improving my coding skills currently. I love making and designing webpages with Bootstrap and JavaScript. It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++ because it challenges me more. I love it when I can finally solve a difficult problem.
+I'm a college student who lives in India. I'm learning Web Development and improving my coding skills currently. I love making and designing webpages with Bootstrap and JavaScript. It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++ because it challenges me more. I love it when I can finally solve a difficult problem.
 
 For my programming projects, I usually only upload to Github once I make significant progress. Feel free to create a pull request to contribute to any of my repositories.
 
